@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="js " type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

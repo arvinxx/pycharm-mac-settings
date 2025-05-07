@@ -1,6 +1,36 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
+      <name value="Python 3.10 (BrowseComp-ZH-main)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.4" />
+      <homePath value="$USER_HOME$/Downloads/BrowseComp-ZH-main/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Downloads/BrowseComp-ZH-main/.venv/lib/python3.10/site-packages" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/1507525562" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="cd88920e-e1c3-419f-b2b8-263979c6f498">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
       <name value="Python 3.10" />
       <type value="Python SDK" />
       <version value="Python 3.10.4" />
@@ -14,6 +44,10 @@
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/1456468620" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
           </root>
         </classPath>
         <sourcePath>

@@ -145,6 +145,36 @@
       </additional>
     </jdk>
     <jdk version="2">
+      <name value="Python 3.11 (mcp-evaluation-result)" />
+      <type value="Python SDK" />
+      <version value="Python 3.11.6" />
+      <homePath value="$USER_HOME$/Desktop/mcp-evaluation-result/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/mcp-evaluation-result/.venv/lib/python3.11/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/1158764944" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/seaborn" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/mcp-evaluation-result" SDK_UUID="582b695e-61ec-47d1-a8ca-618ed56f84fc">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
       <name value="Python 3.10 (lobe-chat-ragas)" />
       <type value="Python SDK" />
       <version value="Python 3.10.4" />

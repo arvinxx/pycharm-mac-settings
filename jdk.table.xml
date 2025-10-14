@@ -158,6 +158,36 @@
       </additional>
     </jdk>
     <jdk version="2">
+      <name value="uv (mcp-test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.11.6" />
+      <homePath value="$USER_HOME$/PycharmProjects/mcp-test/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mcp-test/.venv/lib/python3.11/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/-1232382634" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docutils" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jsonschema" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/mcp-test" SDK_UUID="b710ea0e-52e8-4271-8e97-b3f8bc04da92" IS_UV="true">
+        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
       <name value="Python 3.11 (xbench-evals)" />
       <type value="Python SDK" />
       <version value="Python 3.11.6" />

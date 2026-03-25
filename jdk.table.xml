@@ -603,5 +603,31 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="uv (sandbox-agent)" />
+      <type value="Python SDK" />
+      <version value="Python 3.11.6" />
+      <homePath value="$USER_HOME$/Desktop/sandbox-agent/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/sandbox-agent/.venv/lib/python3.11/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/317878764" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/sandbox-agent" SDK_UUID="5642ac4d-39b8-4bc4-a0a6-aea941be9f10" IS_UV="true">
+        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
